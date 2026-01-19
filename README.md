@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/HeroHalder/HeroHalder/blob/main/Hero%20PP.jpeg" alt="Hero Halder" width="320"/>
+</p>
+
 # Hello 👋, This is Hero Halder  
 ### Computer Scientist & Engineer | Aspiring AI & Software Engineer | Coding Educator & Content Creator  
 
