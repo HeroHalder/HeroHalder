@@ -1,4 +1,4 @@
-# Hello 👋, I'm Hero Halder  
+# Hello 👋, This is Hero Halder  
 ### Computer Scientist & Engineer | Aspiring AI & Software Engineer | Coding Educator & Content Creator  
 
 🚀 Passionate about coding, problem-solving, and building real-world applications.  
