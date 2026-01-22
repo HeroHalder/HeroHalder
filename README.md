@@ -6,7 +6,7 @@
 ### Computer Scientist & Engineer | Aspiring AI & Software Engineer | Coding Educator & Content Creator  
 
 🚀 Passionate about coding, problem-solving, and building real-world applications.  
-I enjoy learning new technologies, sharing knowledge through content creation, and continuously improving my skills as a artificial intelligence & software engineer.
+I enjoy learning new technologies, sharing knowledge through content creation and continuously improving my skills as a artificial intelligence & software engineer.
 
 ---
 
