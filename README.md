@@ -83,6 +83,12 @@
 <img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/output/profile-night-green.svg"/>
 </p>
 
+## 🧊 Git Blocks Contribution
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/output/profile-gitblock.svg"/>
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
