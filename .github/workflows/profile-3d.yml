@@ -19,6 +19,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: HeroHalder
 
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HeroHalder
+          THEME: night
+    
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
