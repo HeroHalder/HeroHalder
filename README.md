@@ -1,85 +1,111 @@
 <p align="center">
-  <img src="https://github.com/HeroHalder/HeroHalder/blob/main/Hero%20PP.jpeg" alt="Hero Halder" width="320"/>
+  <img src="https://github.com/HeroHalder/HeroHalder/blob/main/Hero%20PP.jpeg" width="320"/>
 </p>
 
-# Hello 👋, This is Hero Halder  
-### Computer Scientist & Engineer | Aspiring AI & Software Engineer | Coding Educator & Content Creator  
-
-🚀 Passionate about coding, problem-solving, and building real-world applications.  
-I enjoy learning new technologies, sharing knowledge through content creation and continuously improving my skills as a artificial intelligence & software engineer.
+<h1 align="center">Hi 👋 This is Hero Halder</h1>
+<h3 align="center">Computer Scientist & Engineer | AI/ML & Software Engineer</h3>
 
 ---
 
-## 📖 About This Repository
-This repository contains coding projects, experiments, and learning materials by **Hero Halder**.  
-The main goal is to strengthen problem-solving skills, explore modern technologies, and build practical software solutions through consistent practice.
+## 🚀 About Me
+
+- 💻 Passionate about **Programming & Problem Solving**
+- 🤖 Learning **Artificial Intelligence, Machine Learning & Software Engineering**
+- 📚 Exploring **Data Structures & Algorithms**
+- 🎥 Coding Educator & Content Creator
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/herohalder/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/herohalder/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@Hero_Halder" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+
+<a href="https://www.youtube.com/@Hero_Halder">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/herohalder.cse/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+
+<a href="https://www.facebook.com/herohalder.cse/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://x.com/HeroHalderHero" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+
+<a href="https://x.com/HeroHalderHero">
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/herohalder.profile/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+
+<a href="https://www.instagram.com/herohalder.profile/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
+# 🛠️ Languages & Tools
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
 
-**Core Areas:**  
-- Data Structures & Algorithms  
-- Problem Solving  
-- AI & Automation (Beginner–Intermediate)  
-- Backend Logic & Academic Projects  
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeroHalder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroHalder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=HeroHalder&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroHalder&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeroHalder&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
 
+<img src="https://streak-stats.demolab.com?user=HeroHalder&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HeroHalder&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HeroHalder&theme=tokyonight&margin-w=10&margin-h=10"/>
+
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeroHalder&theme=react&area=true"/>
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeroHalder&theme=react-dark"/>
+
+</p>
 
 ---
 
-<img src="https://profile-counter.glitch.me/HeroHalder/count.svg" alt="Visitor Count"/>
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HeroHalder&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
