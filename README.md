@@ -44,7 +44,7 @@
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
 
@@ -60,7 +60,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -82,7 +82,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -102,7 +102,7 @@
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
