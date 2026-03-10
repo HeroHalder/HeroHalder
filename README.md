@@ -91,6 +91,17 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeroHalder&theme=react-dark"/>
 </p>
 
+
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/HeroHalder/HeroHalder/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 ---
 
 ## 👀 Profile Views
@@ -99,10 +110,3 @@
 <img src="https://komarev.com/ghpvc/?username=HeroHalder&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/output/dist/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
-</p>
