@@ -16,7 +16,7 @@
 - 🤖 Learning **Artificial Intelligence & Machine Learning**
 - 📚 Exploring **Data Structures & Algorithms**
 - 🎥 Coding Educator & Content Creator
-- 🌱 Currently improving **AI, Backend & DevOps**
+- 🌱 Currently improving **AI/ML, Backend & DevOps**
 
 ---
 
