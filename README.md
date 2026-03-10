@@ -103,4 +103,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/HeroHalder/HeroHalder/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/output/github-contribution-grid-snake.gif" alt="Contribution Snake"/>
+</p>
