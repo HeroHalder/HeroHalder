@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Graph
+name: Generate 3D Contribution Graph Updated
 
 on:
   schedule:
