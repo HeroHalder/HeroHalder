@@ -80,7 +80,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/main/profile-night-green.svg"/>
+<img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/output/profile-night-green.svg"/>
 </p>
 
 <!--
