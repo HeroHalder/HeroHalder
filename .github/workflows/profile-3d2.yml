@@ -1,0 +1,41 @@
+name: Generate 3D Contribution Graph Updated
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # <-- Node.js 24 এ opt-in
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout code
+      - name: Checkout
+        uses: actions/checkout@v4  # <-- updated version
+
+      # Generate 3D Contribution Graph (default theme)
+      - name: Generate 3D Contribution Graph (default)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HeroHalder
+
+      # Generate 3D Contribution Graph (night theme)
+      - name: Generate 3D Contribution Graph (night theme)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HeroHalder
+          THEME: night
+    
+      # Deploy to GitHub Pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4  # <-- updated version
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-3d-contrib
+          publish_branch: output

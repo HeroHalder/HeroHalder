@@ -80,7 +80,7 @@
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/main/profile-night-green.svg"/>
+<img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/output/profile-3d-contrib/profile-night-green.svg"/>
 </p>
 
 <!--
@@ -113,7 +113,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/HeroHalder/HeroHalder/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/output/dist/github-snake-dark.svg"/>
 </p>
 
 ---
