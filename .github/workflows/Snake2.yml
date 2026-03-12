@@ -1,9 +1,8 @@
 name: GitHub Snake Game Updated
 
 on:
-  # Schedule the workflow to run every 6 hours
   schedule:
-    - cron: "0 0 * * *"  # প্রতি 6 ঘণ্টা run
+    - cron: "0 0 * * *" 
 
   # Allow manual triggering of the workflow
   workflow_dispatch: {}
