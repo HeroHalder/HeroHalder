@@ -113,7 +113,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/HeroHalder/HeroHalder/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/HeroHalder/HeroHalder/refs/heads/output/github-snake-dark.svg"/>
 </p>
 
 ---
