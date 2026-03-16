@@ -53,3 +53,4 @@ jobs:
           publish_dir: ./   # repo root deploy → profile-3d-contrib + dist একসাথে push
           publish_branch: output
           commit_message: "Update all visuals"
+          force_orphan: true   # 🔑 প্রতিবার clean deploy হবে, garbage ফাইল থাকবে না
