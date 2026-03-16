@@ -52,4 +52,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./   # repo root deploy → profile-3d-contrib + dist একসাথে push
           publish_branch: output
-          commit_message: "Update all visuals [skip ci]"
+          commit_message: "Update all visuals"
