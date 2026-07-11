@@ -35,11 +35,11 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://x.com/HeroHalderHero">
+<a href="https://x.com/HeroHalderCSE">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/herohalder.profile/">
+<a href="https://www.instagram.com/herohalder.cse/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
